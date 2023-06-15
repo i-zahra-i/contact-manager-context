@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/contact-manager-context/static/css/main.6b0aa820.css",
-    "main.js": "/contact-manager-context/static/js/main.2f57c359.js",
+    "main.js": "/contact-manager-context/static/js/main.e47bd9c6.js",
     "static/media/Spinner.gif": "/contact-manager-context/static/media/Spinner.5b35cef0ce49e2af8525.gif",
     "static/media/no-found.gif": "/contact-manager-context/static/media/no-found.8a3fe9fd54d21c85d260.gif",
     "static/media/man-taking-note.png": "/contact-manager-context/static/media/man-taking-note.578e1679689f39584d15.png",
     "index.html": "/contact-manager-context/index.html",
     "main.6b0aa820.css.map": "/contact-manager-context/static/css/main.6b0aa820.css.map",
-    "main.2f57c359.js.map": "/contact-manager-context/static/js/main.2f57c359.js.map"
+    "main.e47bd9c6.js.map": "/contact-manager-context/static/js/main.e47bd9c6.js.map"
   },
   "entrypoints": [
     "static/css/main.6b0aa820.css",
-    "static/js/main.2f57c359.js"
+    "static/js/main.e47bd9c6.js"
   ]
 }
